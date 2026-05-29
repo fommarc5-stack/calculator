@@ -1,4 +1,4 @@
-from seance import calculer_ttc
+from calculateur import calculer_ttc
 
 prix_ttc = calculer_ttc(100)
 print(f"prix TTC : {prix_ttc}")
